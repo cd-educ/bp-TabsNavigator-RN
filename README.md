@@ -8,7 +8,7 @@ Proyecto base de ReactNative/Expo con React-Navigation instalado y configurado u
 
 Crea el proyecto con este boilerplate:
 ```bash
-npx create-react-native-app --template https://www.github.com/cd-educ/bp-TabsNavigator-RN
+npx create-react-native-app --template https://github.com/cd-educ/bp-TabsNavigator-RN
 ```
 
 Instalar las dependencias necesarias localmente estando posicionado en la carpeta del proyecto:
